@@ -5,7 +5,7 @@ function App(props) {
   return (
     <div className="App">
       <Board />
-      {/* <AddTodo /> */}
+      <AddTodo />
     </div>
   );
 }
